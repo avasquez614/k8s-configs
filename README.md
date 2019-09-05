@@ -2,7 +2,7 @@
 
 Provide Kubernetes config files for the following deployments:
 
-- Single Authoring
-- Single Delivery
+- Simple Authoring
+- Simple Delivery
 - Clustered Authoring
 - Serverless Delivery
